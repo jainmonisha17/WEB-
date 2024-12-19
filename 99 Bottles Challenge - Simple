@@ -1,0 +1,144 @@
+var numberOfBottles = 99
+while (numberOfBottles >= 0) {
+    var bottleWord = "bottle";
+    if (numberOfBottles === 1) {
+        bottleWord = "bottles";
+    } 
+    console.log(numberOfBottles + " " + bottleWord + " of beer on the wall");
+    console.log(numberOfBottles + " " + bottleWord + " of beer,");
+    console.log("Take one down, pass it around,");
+	numberOfBottles--;
+    console.log(numberOfBottles + " " + bottleWord + " of beer on the wall.");
+}
+
+--------------------------------------------------------------------------------------------------------------------------------
+OUTPUT -> Could you sing this song for me? 
+
+99 bottle of beer on the wall
+99 bottle of beer,
+Take one down, pass it around,
+98 bottle of beer on the wall.
+98 bottle of beer on the wall
+98 bottle of beer,
+Take one down, pass it around,
+97 bottle of beer on the wall.
+97 bottle of beer on the wall
+97 bottle of beer,
+Take one down, pass it around,
+96 bottle of beer on the wall.
+96 bottle of beer on the wall
+96 bottle of beer,
+Take one down, pass it around,
+95 bottle of beer on the wall.
+95 bottle of beer on the wall
+95 bottle of beer,
+Take one down, pass it around,
+94 bottle of beer on the wall.
+94 bottle of beer on the wall
+94 bottle of beer,
+Take one down, pass it around,
+93 bottle of beer on the wall.
+93 bottle of beer on the wall
+93 bottle of beer,
+Take one down, pass it around,
+92 bottle of beer on the wall.
+92 bottle of beer on the wall
+92 bottle of beer,
+Take one down, pass it around,
+91 bottle of beer on the wall.
+91 bottle of beer on the wall
+91 bottle of beer,
+Take one down, pass it around,
+90 bottle of beer on the wall.
+90 bottle of beer on the wall
+90 bottle of beer,
+Take one down, pass it around,
+89 bottle of beer on the wall.
+89 bottle of beer on the wall
+89 bottle of beer,
+Take one down, pass it around,
+88 bottle of beer on the wall.
+88 bottle of beer on the wall
+88 bottle of beer,
+Take one down, pass it around,
+87 bottle of beer on the wall.
+87 bottle of beer on the wall
+87 bottle of beer,
+Take one down, pass it around,
+86 bottle of beer on the wall.
+86 bottle of beer on the wall
+86 bottle of beer,
+Take one down, pass it around,
+85 bottle of beer on the wall.
+85 bottle of beer on the wall
+85 bottle of beer,
+Take one down, pass it around,
+84 bottle of beer on the wall.
+84 bottle of beer on the wall
+84 bottle of beer,
+Take one down, pass it around,
+83 bottle of beer on the wall.
+83 bottle of beer on the wall
+83 bottle of beer,
+Take one down, pass it around,
+82 bottle of beer on the wall.
+82 bottle of beer on the wall
+82 bottle of beer,
+Take one down, pass it around,
+81 bottle of beer on the wall.
+81 bottle of beer on the wall
+81 bottle of beer,
+Take one down, pass it around,
+80 bottle of beer on the wall.
+80 bottle of beer on the wall
+80 bottle of beer,
+Take one down, pass it around,
+79 bottle of beer on the wall.
+79 bottle of beer on the wall
+79 bottle of beer,
+Take one down, pass it around,
+78 bottle of beer on the wall.
+78 bottle of beer on the wall
+78 bottle of beer,
+Take one down, pass it around,
+77 bottle of beer on the wall.
+77 bottle of beer on the wall
+77 bottle of beer,
+Take one down, pass it around,
+76 bottle of beer on the wall.
+76 bottle of beer on the wall
+76 bottle of beer,
+Take one down, pass it around,
+75 bottle of beer on the wall.
+75 bottle of beer on the wall
+75 bottle of beer,
+Take one down, pass it around,
+74 bottle of beer on the wall.
+74 bottle of beer on the wall
+74 bottle of beer,
+Take one down, pass it around,
+73 bottle of beer on the wall.
+73 bottle of beer on the wall
+73 bottle of beer,
+Take one down, pass it around,
+72 bottle of beer on the wall.
+72 bottle of beer on the wall
+72 bottle of beer,
+Take one down, pass it around,
+71 bottle of beer on the wall.
+71 bottle of beer on the wall
+71 bottle of beer,
+Take one down, pass it around,
+70 bottle of beer on the wall.
+70 bottle of beer on the wall
+70 bottle of beer,
+Take one down, pass it around,
+69 bottle of beer on the wall.
+69 bottle of beer on the wall
+69 bottle of beer,
+Take one down, pass it around,
+68 bottle of beer on the wall.
+68 bottle of beer on the wall
+
+and so on.....
+Great. You have very good tone. 
